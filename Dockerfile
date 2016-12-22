@@ -1,8 +1,10 @@
-FROM ruby:2.2.2
+FROM iron/ruby
+
+RUN apk add && apk update
+RUN gem install slack --no-ri --no-rdoc
+RUN rm -rf /var/cache/apk/*
 
 WORKDIR /app
 ADD . /app
-
-RUN bundle install 
 
 ENTRYPOINT ["ruby", "bubbebot.rb"]

@@ -20,6 +20,8 @@ kibitz = [
   "#{at_channel} this is your bubbe here reminding you to help either other during Commitmukkah! Thank you honey.",
   "#{at_channel} I know you know what you're doing, but I want to remind you that <http://rogerdudler.github.io/git-guide/|git guide> is a VERY helpful guide to learn git commands. Now go commit your code honey!",
   "#{at_channel} just write some Markdown today... it's all I ask! Everything you need is <http://www.markdowntutorial.com|in this git guide>! Oy veh."
+  "#{at_channel} stop your kvetching and commit something!"
+  "#{at_channel} a pig remains a pig, until it learns to use git"
 ]
 
 i = rand(kibitz.length)

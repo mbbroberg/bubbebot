@@ -20,7 +20,7 @@ kibitz = [
   "#{at_channel} this is your bubbe here reminding you to help each other during Commitmukkah! Thank you honey.",
   "#{at_channel} I know you know what you're doing, but I want to remind you that <http://rogerdudler.github.io/git-guide/|git guide> is a VERY helpful to learn git commands. Now go commit your code honey!",
   "#{at_channel} just write some Markdown today... it's all I ask! Everything you need is <http://www.markdowntutorial.com|in this markdown tutorial>! Oy veh.",
-  "#{at_channel} stop your kvetching and commit something! https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/",
+  "#{at_channel} stop your kvetching and commit something! ,https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/",
   "#{at_channel} a pig remains a pig, until it learns to use git https://help.github.com/",
   "#{at_channel} you can contribute even if you don't have the time to write a PR by reviewing open Issues and PRs <https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3Acommitmas+|like these ones on Commitmas repos>. Git commenting!"
 ]
